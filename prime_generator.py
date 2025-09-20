@@ -1,4 +1,3 @@
-from pygame import PREALLOC
 import rich, time
 from rich.progress import Progress
 
@@ -97,4 +96,5 @@ class PrimeNum:  # Prime number class
 # Number of primes: 17
 # Elapsed time: 0.0001 seconds
 # Save primes to file? (yes/no): y
+
 # Saved to file: 10-50_primes.txt
